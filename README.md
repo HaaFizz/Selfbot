@@ -1,5 +1,3 @@
 ### NEW
 
-# SEMUA AKAN MATI PADA WAKTUNYA
-
-### Self bot LINE py3 New Bot line type python3 2018-2019 ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ
+### Self bot LINE py3 New Bot line type python3 2019-2020 ℌ𝔞𝔣𝔦𝔷 𝔖𝔲𝔫𝔫𝔶
