@@ -102,12 +102,12 @@ wait = {
     "sticker":False,
     "selfbot":True,
     "unsend":False,
-    "mention":"Hayoo ngintip ,ketuaan kan..ngaku hayoo",
-    "Respontag":"ciee nge-Tag gua ,pasti pas ada maunya aja kan...🙌😂",
-    "welcome":"Nah Calon Tikungan Baru",
-    "leave":"NAH LOH BAPER KHAAAN KHAAAN ,KEBANYAKAN DRAMA SIHH..😂",
-    "comment":"Like by JEM_BOT",
-    "message":"ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ :\nList opsi\n🤖 Pasangan Hidup :\n🔰 Only Status ⏩ 180K/Bulan\n\n🤖 Systim Contract :\n🔰 Only Curhat ⏩ 100K/Bulan\n🔰 Zona Friend + TTM\n🔰 Zona Nyaman + Full Care + On 5day + 2 day free ⏩ 300K/Bulan\n\n✍️ Bisa Requests Mau Berapa Lama Durasi Buat Debay.\nChat Ke : http://line.me/ti/p/~calon.almarhum99\n\n📃\n* Always on 24 Jam\n* Keuntungan Banyak\n* Durasi min 0.25month\n* max no limit",
+    "mention":"مجھ پہ کسنے لگے ھو آوازیں 😎 اتنی اوقات ھو گئی ھے کیا",
+    "Respontag":"Tagged me, 😕 it would be just right when I wanted to...🙌😂",
+    "welcome":"Welcome Here 😍 I Hope You Enjoy",
+    "leave":"We Will Miss You 😓..😂",
+    "comment":"Like by HaFiz",
+    "message":"HaFiz Sunny http://line.me/ti/p/~anyms",
     }
 
 read = {
@@ -359,7 +359,7 @@ def help():
     key2 = key2.title()
     helpMessage = "🔰 MODE: "+ key2 +" 🔰" + "\n" + \
                   "🔥 Help Message 🔥" + "\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     Use「 " + key + " 」In front of it\n" + \
                   "\n🔵 Menu" + "\n" + \
                   "🔰 " + key + "Help\n" + \
                   "🔰 " + key + "Help bot\n" + \
@@ -410,8 +410,8 @@ def help():
                   "🔰 " + key + "Setkey「New Key」\n" + \
                   "🔰 " + key + "Mykey\n" + \
                   "🔰 " + key + "Resetkey\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
-                  "\n🔵 Hiburan" + "\n" + \
+                  "     Use「 " + key + " 」In front of it\n" + \
+                  "\n🔵 Entertainment" + "\n" + \
                   "🎭 " + key + "Musik:「Judul Lagu」\n" + \
                   "🎭 " + key + "Musik2:「Judul Lagu」\n" + \
                   "🎭 " + key + "Playlist「Nama Penyanyi」\n" + \
@@ -441,7 +441,7 @@ def help():
                   "🎭 " + key + "Spamcall:「jumlahnya」\n" + \
                   "🎭 " + key + "Spamcall\n" + \
                   "🎭 " + key + "ID line:「Id Line nya」\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     Use「 " + key + " 」In front of it\n" + \
                   "\n🔵 Settings" + "\n" + \
                   "🎭 " + key + "Unsend「on/off」\n" + \
                   "🎭 " + key + "Jointicket「on/off」\n" + \
@@ -454,7 +454,7 @@ def help():
                   "🎭 " + key + "Welcome「on/off」\n" + \
                   "🎭 " + key + "Simi「on/off」\n" + \
                   "🎭 " + key + "Autoleave「on/off」\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     Use「 " + key + " 」In front of it\n" + \
                   "\n🔵 Admin" + "\n" + \
                   "🎭 " + key + "Changenamecreator:「Nama」\n" + \
                   "🎭 " + key + "Resetnamecreator\n" + \
@@ -464,7 +464,7 @@ def help():
                   "🎭 " + key + "Admindell「@」\n" + \
                   "🎭 " + key + "Refresh\n" + \
                   "🎭 " + key + "Listadmin\n" + \
-                  "     Ketik「 Refresh 」Jika Sudah Menggunakan Command Diatas...\n" + \
+                  "     Type「 Refresh 」If Already Using the Command Above...\n" + \
                   "\n🔐 USER BY:"+ key2 + "🔐"
     return helpMessage
 
@@ -477,7 +477,7 @@ def helarot():
     key2 = key2.title()
     helpMessage1 ="🔰 NAME: "+ key2 +" 🔰" + "\n" + \
                   "🔵 Help Bot" + "\n" + \
-                  "     Gunakan「 " + key + " 」Di Depannya\n" + \
+                  "     Use「 " + key + " 」In front of it\n" + \
                   "\n🔵 Menu" + "\n" + \
                   "🔥 " + key + "Cek sider\n" + \
                   "🔥 " + key + "Cek spam\n" + \
@@ -494,7 +494,7 @@ def helarot():
                   "🔥 " + key + "Myname:「Nama」\n" + \
                   "🔥 " + key + "Gift:「Mid korban」「Jumlah」\n" + \
                   "🔥 " + key + "Spam:「Mid korban」「Jumlah」\n" + \
-                  "     Ketik「 Refresh 」Jika Sudah Menggunakan Command Diatas...\n" + \
+                  "     Type「 Refresh 」If Already Using the Command Above...\n" + \
                   "\n🔐 USER:"+ key2 + "🔐"
     return helpMessage1
 
@@ -528,31 +528,11 @@ def infomeme():
 ✍ sparta
 ✍ aag
 
-🎓 by: ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ™ 🎓
-line.me/ti/p/~calon.almarhum99"""
+🎓 by: ʜᴀғɪᴢ sᴜɴɴʏ™ 🎓
+line.me/ti/p/~anyms"""
     return helpMessage2
 def listharga():
-    helpMessage3 = """
-#Price List ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ :
-
-🤖 Jasa bikin 2anak :
-🔰 Male/Female Only ⏩ 150K/Minggu
-
-🤖 Jasa Madu3 :
-🔰 Private Only ⏩ 100K/Minggu
-🔰 Private + Publik ⏩ 200K/Minggu
-🔰 Private + Publik + Legal + Certifikasi ⏩ 250K/Minggu
-
-✍️ Bisa Requests Mau Berapa Lama Buat Debay.
-Chat Ke : http://line.me/ti/p/~calon.almarhum99
-
-📃
-* Always on 24 Jam
-* Sensasi Banyak
-* Long Duration
-* Free Request
-# Buat Gadis, Dari Kami Harga Beda Lagi.
-"""
+    
 
 def translate():
     helpTranslate =     "✍ T R A N S L A T E " + "\n" + \
@@ -662,8 +642,8 @@ def translate():
                        "📝 zu : zulu" + "\n" + \
                        "📝 fil : Filipino" + "\n" + \
                        "📝 he : Hebrew" + "\n" + \
-                       "\n🔊🔊🔊 Jangan Typo 🔊🔊🔊" + "\n" + "\n" + \
-                         "Contoh : tr-en Lagi Syantik "
+                       "\n🔊🔊🔊 Don,t Type 🔊🔊🔊" + "\n" + "\n" + \
+                         "Example : tr-en More Beauty "
     return helpTranslate
 groupParam = ""
 def SiriGetOut(targ):
@@ -686,12 +666,12 @@ def bot(op):
                     if op.param2 not in Bots and op.param2 not in admin:
                         cl.acceptGroupInvitation(op.param1)
                         ginfo = cl.getGroup(op.param1)
-                        cl.sendMessage(op.param1,"Selamat Tinggal Semuanya yg ada di\n Group " +str(ginfo.name))
+                        cl.sendMessage(op.param1,"Bye Bye\n Group " +str(ginfo.name))
                         cl.leaveGroup(op.param1)
                     else:
                         cl.acceptGroupInvitation(op.param1)
                         ginfo = cl.getGroup(op.param1)
-                        cl.sendMessage(op.param1,"Hai Semuanya yg ada di " + str(ginfo.name))
+                        cl.sendMessage(op.param1,"Hi Everyone " + str(ginfo.name))
 
         if op.type == 13:
             if mid in op.param3:
@@ -699,7 +679,7 @@ def bot(op):
                     if op.param2 not in Bots and op.param2 not in admin:
                         cl.acceptGroupInvitation(op.param1)
                         ginfo = cl.getGroup(op.param1)
-                        cl.sendMessage(op.param1,"Hallo all members " +str(ginfo.name))
+                        cl.sendMessage(op.param1,"Hello 😘 Thanks For Invite " +str(ginfo.name))
                     else:
                         cl.acceptGroupInvitation(op.param1)
                         ginfo = cl.getGroup(op.param1)
@@ -1018,19 +998,19 @@ def bot(op):
                  if msg._from in admin:
                   if wait["addadmin"] == True:
                     if msg.contentMetadata["mid"] in admin:
-                        cl.sendMessage(msg.to,"Contact itu sudah jadi admin")
+                        cl.sendMessage(msg.to,"Successfully added to admin")
                         wait["addadmin"] = True
                     else:
                         admin.append(msg.contentMetadata["mid"])
                         wait["addadmin"] = True
-                        cl.sendMessage(msg.to,"Berhasil menambahkan ke admin")
+                        cl.sendMessage(msg.to,"Successfully added to admin")
                  if wait["delladmin"] == True:
                     if msg.contentMetadata["mid"] in admin:
                         admin.remove(msg.contentMetadata["mid"])
-                        cl.sendMessage(msg.to,"Berhasil menghapus dari admin")
+                        cl.sendMessage(msg.to,"Successfully removed from admin")
                     else:
                         wait["delladmin"] = True
-                        cl.sendMessage(msg.to,"Contact itu bukan admin")
+                        cl.sendMessage(msg.to,"That Contact is not an admin")
 #UPDATE FOTO
                if msg.contentType == 1:
                  if msg._from in admin:
@@ -1043,7 +1023,7 @@ def bot(op):
                             path = os.path.join(os.path.dirname(__file__), 'dataPhotos/%s.jpg' % Setmain["Img"])
                             with open(path, 'wb') as fp:
                                 shutil.copyfileobj(r.raw, fp)
-                            cl.sendMessage(msg.to, "Berhasil menambahkan gambar")
+                            cl.sendMessage(msg.to, "Successfully added image")
                         Setmain["Img"] = {}
                         Setmain["Addimage"] = False
 
@@ -1053,7 +1033,7 @@ def bot(op):
                      path = cl.downloadObjectMsg(msg_id)
                      settings["groupPicture"] = False
                      cl.updateGroupPicture(msg.to, path)
-                     cl.sendMessage(msg.to, "Berhasil mengubah foto group")
+                     cl.sendMessage(msg.to, "Successfully changed group photo")
 
                if msg.contentType == 1:
                    if msg._from in admin:
@@ -1061,7 +1041,7 @@ def bot(op):
                             path = cl.downloadObjectMsg(msg_id)
                             del Setmain["phfoto"][mid]
                             cl.updateProfilePicture(path)
-                            cl.sendMessage(msg.to,"Foto berhasil dirubah")
+                            cl.sendMessage(msg.to,"Photo successfully changed")
 
                if msg.contentType == 0:
                     if Setmain["autoRead"] == True:
@@ -1079,12 +1059,12 @@ def bot(op):
                         if cmd == "self on":
                             if msg._from in admin:
                                 wait["selfbot"] = True
-                                cl.sendMessage(msg.to, "Selfbot diaktifkan")
+                                cl.sendMessage(msg.to, "Selfbot Activated")
 
                         elif cmd == "self off":
                             if msg._from in admin:
                                 wait["selfbot"] = False
-                                cl.sendMessage(msg.to, "Selfbot dinonaktifkan")
+                                cl.sendMessage(msg.to, "Selfbot Deactivated")
 
                         elif cmd == "help bot":
                           if wait["selfbot"] == True:
@@ -1107,12 +1087,12 @@ def bot(op):
                         if cmd == "unsend on":
                             if msg._from in admin:
                                 wait["unsend"] = True
-                                cl.sendMessage(msg.to, "Deteksi Unsend Diaktifkan")
+                                cl.sendMessage(msg.to, "Unsend Detection Activated")
 
                         if cmd == "unsend off":
                             if msg._from in admin:
                                 wait["unsend"] = False
-                                cl.sendMessage(msg.to, "Deteksi Unsend Dinonaktifkan")
+                                cl.sendMessage(msg.to, "Unsend Detection Deactivated")
 
                         elif cmd == "status":
                           if wait["selfbot"] == True:
@@ -1177,7 +1157,7 @@ def bot(op):
                         elif cmd == "about" or cmd == "informasi":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               sendMention(msg.to, sender, "「 ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ 」\n")
+                               sendMention(msg.to, sender, "「 ʜᴀғɪᴢ sᴜɴɴʏ 」\n")
                                cl.sendMessage(msg.to, None, contentMetadata={'mid': mid}, contentType=13)
 
                         elif cmd == "me" or text.lower() == 'me':
@@ -1302,9 +1282,9 @@ def bot(op):
                                             break
                                         try:
                                             cl.cloneContactProfile(contact)
-                                            cl.sendMessage(msg.to, "Berhasil clone member tunggu beberapa saat sampai profile berubah")
+                                            cl.sendMessage(msg.to, "Successfully clone member wait a while until the profile changes")
                                         except:
-                                            cl.sendMessage(msg.to, "Gagal clone member")
+                                            cl.sendMessage(msg.to, "Failed clone member")
 
                         elif cmd.startswith("mybackup"):
                             if msg._from in admin:
@@ -1314,9 +1294,9 @@ def bot(op):
                                     PhieProfile.pictureStatus = str(myProfile["pictureStatus"])
                                     cl.updateProfileAttribute(8, arifProfile.pictureStatus)
                                     cl.updateProfile(PhieProfile)
-                                    cl.sendMessage(msg.to, "Berhasil restore profile tunggu beberapa saat sampai profile berubah")
+                                    cl.sendMessage(msg.to, "Successfully restore profile wait a few moments until the profile changes")
                                 except:
-                                            cl.sendMessage(msg.to, "Gagal restore profile")
+                                            cl.sendMessage(msg.to, "Restore profile Failed")
 
                         elif cmd.startswith("broadcast: "):
                           if wait["selfbot"] == True:
@@ -1338,7 +1318,7 @@ def bot(op):
                                sep = text.split(" ")
                                key = text.replace(sep[0] + " ","")
                                if key in [""," ","\n",None]:
-                                   cl.sendMessage(msg.to, "Gagal mengganti key")
+                                   cl.sendMessage(msg.to, "Failed To Change Key")
                                else:
                                    Setmain["keyCommand"] = str(key).lower()
                                    cl.sendMessage(msg.to, "「Setkey」\nSetkey diganti jadi「{}」".format(str(key).lower()))
@@ -1435,13 +1415,13 @@ def bot(op):
                                     gTicket = "https://line.me/R/ti/g/{}".format(str(cl.reissueGroupTicket(G.id)))
                                 timeCreated = []
                                 timeCreated.append(time.strftime("%d-%m-%Y [ %H:%M:%S ]", time.localtime(int(G.createdTime) / 1000)))
-                                ret_ += "🖥 BOT Grup Info\n"
-                                ret_ += "\n🖥 Nama Group : {}".format(G.name)
+                                ret_ += "🖥 BOT Group Info\n"
+                                ret_ += "\n🖥 Name Group : {}".format(G.name)
                                 ret_ += "\n🖥 ID Group : {}".format(G.id)
-                                ret_ += "\n🖥 Pembuat : {}".format(gCreator)
-                                ret_ += "\n🖥 Waktu Dibuat : {}".format(str(timeCreated))
-                                ret_ += "\n🖥 Jumlah Member : {}".format(str(len(G.members)))
-                                ret_ += "\n🖥 Jumlah Pending : {}".format(gPending)
+                                ret_ += "\n🖥 Maker : {}".format(gCreator)
+                                ret_ += "\n🖥 Time Created : {}".format(str(timeCreated))
+                                ret_ += "\n🖥 Total Members : {}".format(str(len(G.members)))
+                                ret_ += "\n🖥 Pending Members : {}".format(gPending)
                                 ret_ += "\n🖥 Group Qr : {}".format(gQr)
                                 ret_ += "\n🖥 Group Ticket : {}".format(gTicket)
                                 ret_ += ""
@@ -1656,7 +1636,7 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
-                                cl.sendMessage(msg.to, "Bye bye fams "+str(G.name))
+                                cl.sendMessage(msg.to, "Good bye 😦 "+str(G.name))
                                 cl.leaveGroup(msg.to)
 
                         elif cmd == "sprespon":
@@ -1677,9 +1657,9 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                start = time.time()
-                               cl.sendMessage(msg.to, "Progres speed...")
+                               cl.sendMessage(msg.to, "Progress speed...")
                                elapsed_time = time.time() - start
-                               cl.sendMessage(msg.to, "{} detik".format(str(elapsed_time)))
+                               cl.sendMessage(msg.to, "{} Seconds".format(str(elapsed_time)))
 
                         elif cmd == "lurking on":
                           if wait["selfbot"] == True:
@@ -1688,7 +1668,7 @@ def bot(op):
                                  timeNow = datetime.now(tz=tz)
                                  Setmain['phreadPoint'][msg.to] = msg_id
                                  Setmain['phreadMember'][msg.to] = {}
-                                 cl.sendMessage(msg.to, "Lurking berhasil diaktifkan\n\nTanggal : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
+                                 cl.sendMessage(msg.to, "Lurking was successfully activated\n\nDate : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
 
                         elif cmd == "lurking off":
                           if wait["selfbot"] == True:
@@ -1697,7 +1677,7 @@ def bot(op):
                                  timeNow = datetime.now(tz=tz)
                                  del Setmain['phreadPoint'][msg.to]
                                  del Setmain['phreadMember'][msg.to]
-                                 cl.sendMessage(msg.to, "Lurking berhasil dinoaktifkan\n\nTanggal : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
+                                 cl.sendMessage(msg.to, "Lurking was Sucessfully Deactivated\n\nDate : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
 
                         elif cmd == "lurkers":
                           if msg._from in admin:
@@ -1756,7 +1736,7 @@ def bot(op):
                               try:
                                   tz = pytz.timezone("Asia/Jakarta")
                                   timeNow = datetime.now(tz=tz)
-                                  cl.sendMessage(msg.to, "Cek sider diaktifkan\n\nTanggal : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
+                                  cl.sendMessage(msg.to, "Sider check is activated\n\nDate : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
                                   del cctv['point'][msg.to]
                                   del cctv['sidermem'][msg.to]
                                   del cctv['cyduk'][msg.to]
@@ -1773,7 +1753,7 @@ def bot(op):
                                   tz = pytz.timezone("Asia/Jakarta")
                                   timeNow = datetime.now(tz=tz)
                                   cctv['cyduk'][msg.to]=False
-                                  cl.sendMessage(msg.to, "Cek sider dinonaktifkan\n\nTanggal : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
+                                  cl.sendMessage(msg.to, "Sider check is Deactivated\n\nDate : "+ datetime.strftime(timeNow,'%Y-%m-%d')+"\nJam [ "+ datetime.strftime(timeNow,'%H:%M:%S')+" ]")
                               else:
                                   cl.sendMessage(msg.to, "Sudak tidak aktif")
 
