@@ -1363,7 +1363,7 @@ def bot(op):
                         elif text.lower() == "resetnamecreator":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               Setmain["namecreator"] = "ᴄᴀʟᴏɴ ᴀʟᴍᴀʀʜᴜᴍ™"
+                               Setmain["namecreator"] = "нaғιz ѕυnny™"
                                cl.sendMessage(msg.to, "「Change name creator」\nNama creator kembali ke awal")
 
                         elif cmd == "restart":
