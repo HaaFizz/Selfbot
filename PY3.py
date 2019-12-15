@@ -642,8 +642,8 @@ def translate():
                        "📝 zu : zulu" + "\n" + \
                        "📝 fil : Filipino" + "\n" + \
                        "📝 he : Hebrew" + "\n" + \
-                       "\n🔊🔊🔊 Don,t Type 🔊🔊🔊" + "\n" + "\n" + \
-                         "Example : tr-en More Beauty "
+                       "\n🔊🔊🔊 Jangan Typo 🔊🔊🔊" + "\n" + "\n" + \
+                         "Contoh : tr-en Lagi Syantik "
     return helpTranslate
 groupParam = ""
 def SiriGetOut(targ):
